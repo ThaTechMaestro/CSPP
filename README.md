@@ -1,1 +1,1 @@
-# CSPP
+# A walkthrough of the book "Computer Systems A programmers perspective"

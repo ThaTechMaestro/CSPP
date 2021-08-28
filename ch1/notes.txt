@@ -1,0 +1,101 @@
+Section 1.1
+-----------------------
+Source program or file is the program written by the Software Engineer
+
+Bits is the basic unit for data representation in computer
+It means binary digit
+
+Why are characters represented with Bytes and not Bits?
+1 byte is 8bits
+8 bits is used as 256 different characters can be represented
+    via an 8 bit binary representation
+
+What is ASCII representation?
+It serves as the standard for how characters, special symbols are 
+    represented in binary(7bits)
+It can be referred to as a character code standard
+There are other variants of ASCII as different country needed to tweak it 
+    to suit their countries language characters such as ISO 646, YUSCII
+
+
+8 bit also refers to a generation of micro-computers in which 8-bit 
+    microprocessors were the norm.
+The first widely accepted 8bit microprocessor was intel8080
+
+
+---------------------------------------------------------------------------------------------
+
+Microprocessor
+CPU Architecture is based on registers
+ALU Architecture is based on data buses
+
+CPU 
+    It composes of 
+    Arithmetic and Logic Unit (ALU)
+    Control Unit 
+    Registers 
+
+ALU 
+    It is a circuit that performs different operations on data 
+    such as addition, evaluation and substraction. 
+
+Control Unit:
+    The circuits co-ordinates the activities of the CPU
+     It makes sure the rest of the CPU is performing their operations correctly.
+     It has an instruction register 
+     Look at it like music condutor with his instruction manual leading a band
+
+A CPU that is manufactured as a single integrated circuit is known as a 
+    Microprocessor.
+
+There is common paradigm in Computer Sci 
+    Actions or Operations 
+    Data storage
+    Management of the two listed above to make things more efficient
+
+(You stopped here) also at section1.1 in the book
+Difference between a Microprocessor and CPU:
+    https://searchservervirtualization.techtarget.com/tip/CPU-vs-microprocessor-What-are-the-differences
+Understanding 8bits 
+    What does a 16-bit, 32bit microprocessor mean?
+    https://en.wikipedia.org/wiki/ASCII
+
+
+
+
+----------------------------------------------------------------------------------------
+BUSES 
+Buses are just ways for which data can be transmitted through physical arrangement
+    of wires.
+    It is also a collection of wires through which data is transmitted.
+
+The size of a bus is its width
+    It refers to how many bits it can transfer at a time.
+
+
+The initial Architecture for Buses were
+The Computer Bus is made up of the following generally known as a System Bus 
+    Control Bus: It deals with operations such as reading and writing to a file. 
+    Address Bus: It is used for finding specified locations 
+    Data Bus: Transmission of data  
+
+As there were improvements in circuitry 
+A new architecture for Buses were made called the local Bus 
+    It consists of northbridge and southbridge 
+
+    Data transmissions are made in order of priority 
+
+    High priority are made via the northbridge 
+    Lower priority are made via the south bridge.
+
+Addresses helps us find the location of a particular data in memory. 
+Useful Links:
+    https://www.youtube.com/watch?v=3osm-soT_Lc
+    https://www.youtube.com/watch?v=VvEikwvyN8k
+
+-----------------------------------------------------------------------------------------
+
+Main Memory
+    It is any memory directly accesed by the CPU 
+
+Memory adresses 
